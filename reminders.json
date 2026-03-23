@@ -7,7 +7,7 @@
       "18:00",
       "21:00"
     ],
-    "reports_enabled": false,
+    "reports_enabled": true,
     "enabled": true,
     "use_ai": false,
     "triggers_enabled": true,
