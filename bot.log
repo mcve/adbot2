@@ -1,0 +1,882 @@
+nohup: ignoring input
+INFO:root:Bot starting...
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @tovarka_eco_ads_bot id=8216126824 - 'Товарный Бро'
+INFO:aiogram.event:Update id=923383979 is handled. Duration 207 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383980 is handled. Duration 307 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383981 is handled. Duration 81 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383982 is handled. Duration 74 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383983 is handled. Duration 87 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383984 is handled. Duration 81 ms by bot id=8216126824
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:aiogram.event:Update id=923383985 is handled. Duration 6949 ms by bot id=8216126824
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"ef46cbd0-1ee6-40ce-961d-6f5fe4d8ba4e","object":"chat.completion","created":1774195593,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"━━━ 🧠 КАРТИНА ━━━\nТратим деньги, но почти не получаем лидов. Средний CPL $4.29 — это на грани безубытка для большинства
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923383986 is handled. Duration 11906 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383987 is handled. Duration 192 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383988 is handled. Duration 96 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383989 is handled. Duration 122 ms by bot id=8216126824
+INFO:root:FREE_CHAT_PLANS: plans=['Беспр пылесос 11.03', 'Ультр ванна 11.03', 'пылесос текущий', 'пылесос текущий без налогов', 'Беспр пылесос - без налогов 16.03', 'Пылесос - с налогами и текущим CPL 16.03', 'пылесос итоги', 'Сумка-трансформер (без аппсейлов + налоги)', 'Браслет (без апсейла + налоги)']
+INFO:root:FREE_CHAT_PLANS: plan=Беспр пылесос 11.03, campaigns_count=1, campaigns=[{'id': '1859289224206433', 'name': 'Беспроводной пылесос 11.03', 'status': '', 'source': 'tt', 'source_emoji': '🎵'}]
+INFO:root:FREE_CHAT_TT: calling tt_get_adgroup_insights for campaign 1859289224206433, name=Беспроводной пылесос 11.03
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:FREE_CHAT_TT: got 24 adgroups, type=<class 'list'>
+INFO:root:FREE_CHAT_TT: first_ag={'id': '1859811090897921', 'name': '4.1', 'spend': 0.0, 'impressions': 0, 'clicks': 0, 'ctr': 0.0, 'cpc': 0.0, 'leads': 0, 'cpl': 0.0, 'is_active': True, 'status': 'АКТИВНА', 'budget': 40.0}
+INFO:root:FREE_CHAT_PLANS: plan=Ультр ванна 11.03, campaigns_count=0, campaigns=[]
+INFO:root:FREE_CHAT_PLANS: plan=пылесос текущий, campaigns_count=0, campaigns=[]
+INFO:root:FREE_CHAT_PLANS: plan=пылесос текущий без налогов, campaigns_count=0, campaigns=[]
+INFO:root:FREE_CHAT_PLANS: plan=Беспр пылесос - без налогов 16.03, campaigns_count=0, campaigns=[]
+INFO:root:FREE_CHAT_PLANS: plan=Пылесос - с налогами и текущим CPL 16.03, campaigns_count=0, campaigns=[]
+INFO:root:FREE_CHAT_PLANS: plan=пылесос итоги, campaigns_count=0, campaigns=[]
+INFO:root:FREE_CHAT_PLANS: plan=Сумка-трансформер (без аппсейлов + налоги), campaigns_count=1, campaigns=[{'id': '1860295504334945', 'name': 'Сумка-трансформер 23.03', 'status': '', 'source': 'tt', 'source_emoji': '🎵'}]
+INFO:root:FREE_CHAT_TT: calling tt_get_adgroup_insights for campaign 1860295504334945, name=Сумка-трансформер 23.03
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:FREE_CHAT_TT: got 8 adgroups, type=<class 'list'>
+INFO:root:FREE_CHAT_TT: first_ag={'id': '1860367684932625', 'name': '3.3 бюджет 30$ + ставка 1.8$', 'spend': 0.06, 'impressions': 53, 'clicks': 1, 'ctr': 1.89, 'cpc': 0.06, 'leads': 0, 'cpl': 0.0, 'is_active': True, 'status': 'АКТИВНА', 'budget': 30.0}
+INFO:root:FREE_CHAT_PLANS: plan=Браслет (без апсейла + налоги), campaigns_count=1, campaigns=[{'id': '1860294417984546', 'name': 'Браслеты 22.03', 'status': '', 'source': 'tt', 'source_emoji': '🎵'}]
+INFO:root:FREE_CHAT_TT: calling tt_get_adgroup_insights for campaign 1860294417984546, name=Браслеты 22.03
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:FREE_CHAT_TT: got 5 adgroups, type=<class 'list'>
+INFO:root:FREE_CHAT_TT: first_ag={'id': '1860300836111762', 'name': 'Авантюрин', 'spend': 0.16, 'impressions': 82, 'clicks': 5, 'ctr': 6.1, 'cpc': 0.03, 'leads': 0, 'cpl': 0.0, 'is_active': True, 'status': 'АКТИВНА', 'budget': 20.0}
+INFO:root:FREE_CHAT_BEFORE_CHECK: live_ctx_len=2884, live_ctx_repr='\n🎵 Беспроводной пылесос 11.03: $0.00 | 0 кликов | CTR 0.0% | CPC $0.00 | Лидов: 0\n  Всего связок: 24 (активных: 3, выключенных: 21)\n  Связка 4.1 [АКТИВНА]: $0.00 | CTR 0.0% | CPC $0.00 | Лидов: 0\n  Связка 4.3 [АКТИВНА]: $0.00 | CTR 0.0% | CPC $0.00 | Лидов: 0\n  Связка 2 [АКТИВНА]: $0.00 | CTR 0.0% | CPC $0.00 | Лидов: 0\n  Связка 4.2 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)\n  Связка 1 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)\n  Связка 3 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)\n  Связка 4 [ВЫКЛЮЧЕНА]: $0'
+INFO:root:FREE CHAT LIVE CTX: 
+🎵 Беспроводной пылесос 11.03: $0.00 | 0 кликов | CTR 0.0% | CPC $0.00 | Лидов: 0
+  Всего связок: 24 (активных: 3, выключенных: 21)
+  Связка 4.1 [АКТИВНА]: $0.00 | CTR 0.0% | CPC $0.00 | Лидов: 0
+  Связка 4.3 [АКТИВНА]: $0.00 | CTR 0.0% | CPC $0.00 | Лидов: 0
+  Связка 2 [АКТИВНА]: $0.00 | CTR 0.0% | CPC $0.00 | Лидов: 0
+  Связка 4.2 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 1 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 3 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 4 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 1 объекта «Копия 2 крео, [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 2 крео, пол женский [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 5 объекта «Копия 2 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 2 объекта «Копия 3 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 1 объекта «Копия 3 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 4 объекта «Копия 2 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 3 объекта «Копия 2 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 2 объекта «Копия 2 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 1 объекта «Копия 2 объек [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 2 объекта «1» [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 1 объекта «1» [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 2 объекта «2» [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка Копия 1 объекта «2» [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 2 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 3 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 4 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+  Связка 1 [ВЫКЛЮЧЕНА]: $0 (нет данных за период)
+🎵 Сумка-трансформер 23.03: $7.53 | 67 кликов | CTR 2.3% | CPC $0.11 | Лидов: 2 | CPL $3.76
+  Всего связок: 8 (активных: 3, выключенных: 5)
+  Связка 3.3 бюджет 30$ + ставка 1.8$ [АКТИВНА]: $0.06 | CTR 1.9% | CPC $0.06 | Лидов: 0
+  Связка 3.2 ставка 1.8$ [АКТИВНА]: $0.06 | CTR 5.1% | CPC $0.03 | Лид
+INFO:aiogram.event:Update id=923383990 is handled. Duration 6725 ms by bot id=8216126824
+INFO:root:TT_STATUSES: {'1860295504334945': 'ENABLE', '1860294417984546': 'ENABLE', '1859341649252401': 'DISABLE', '1859299465646178': 'DISABLE', '1859289224206433': 'DISABLE'}
+INFO:root:AI_CHAT_CAMP: id=1859289224206433 status=DISABLE
+INFO:root:AI_CHAT_CAMP: SKIP 1859289224206433
+INFO:root:AI_CHAT_CAMP: id=1860295504334945 status=ENABLE
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:AI_CHAT_CAMP: id=1860294417984546 status=ENABLE
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:AI_CHAT_LIVE_ALL: len=435, preview='\n🎵 Сумка-трансформер 23.03: $0.17 | CTR 2.3% | CPC $0.11 | Лидов: 0\n  [АКТИВНА] 3.3 бюджет 30$ + ставка 1.8$: $0.06 | CTR 1.9% | CPC $0.06 | Лидов: 0 → тест\n  [АКТИВНА] 3.2 ставка 1.8$: $0.06 | CTR 5.'
+INFO:root:AI_CHAT_CTX: ЮНИТ-ПЛАНЫ (только активные):
+  Сумка-трансформер (без аппсейлов + налоги): план=$2.02, безуб=$3.50
+  Браслет (без апсейла + налоги): план=$2.90, безуб=$4.28
+
+
+LIVE ДАННЫЕ РЕКЛАМЫ (сегодня):
+🎵 Сумка-трансформер 23.03: $0.17 | CTR 2.3% | CPC $0.11 | Лидов: 0
+  [АКТИВНА] 3.3 бюджет 30$ + ставка 1.8$: $0.06 | CTR 1.9% | CPC $0.06 | Лидов: 0 → тест
+  [АКТИВНА] 3.2 ставка 1.8$: $0.06 | CTR 5.1% | CPC $0.03 | Лидов: 0 → тест
+  [АКТИВНА] 3.1 бюджет 30$: $0.05 | CTR 0.0% | CPC $0.00 | Лидов: 0 → тест
+🎵 
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"ae1fbc6f-807e-4d45-aaad-4f15ca8ab95e","object":"chat.completion","created":1774195712,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"Проблема точно в лендинге. CTR 6.1% — это отличный показатель, крео цепляет. Люди кликают, но дальше ничего не происходи
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923383991 is handled. Duration 23122 ms by bot id=8216126824
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:aiogram.event:Update id=923383992 is handled. Duration 338 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383993 is handled. Duration 306 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383994 is handled. Duration 69 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383995 is handled. Duration 73 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383996 is handled. Duration 88 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383997 is handled. Duration 826 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383998 is handled. Duration 74 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923383999 is handled. Duration 76 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384000 is handled. Duration 77 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384001 is handled. Duration 83 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384002 is handled. Duration 98 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384003 is handled. Duration 81 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384004 is handled. Duration 121 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384005 is handled. Duration 80 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384006 is handled. Duration 99 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384007 is handled. Duration 117 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384008 is handled. Duration 94 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384009 is handled. Duration 196 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384010 is handled. Duration 75 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384011 is handled. Duration 89 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384012 is handled. Duration 181 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384013 is handled. Duration 116 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384014 is handled. Duration 117 ms by bot id=8216126824
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:aiogram.event:Update id=923384015 is handled. Duration 920 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384016 is handled. Duration 221 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384017 is handled. Duration 95 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384018 is handled. Duration 74 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384019 is handled. Duration 89 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384020 is handled. Duration 448 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384021 is handled. Duration 183 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384022 is handled. Duration 206 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384023 is handled. Duration 799 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384024 is handled. Duration 66 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384025 is handled. Duration 90 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384026 is handled. Duration 77 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384027 is handled. Duration 66 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384028 is handled. Duration 68 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384029 is handled. Duration 67 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384030 is handled. Duration 69 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384031 is handled. Duration 69 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384032 is handled. Duration 80 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384033 is handled. Duration 73 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384034 is handled. Duration 73 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384035 is handled. Duration 69 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384036 is handled. Duration 126 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384037 is handled. Duration 225 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384038 is handled. Duration 80 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384039 is handled. Duration 113 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923384040 is handled. Duration 433 ms by bot id=8216126824
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5
+INFO:root:TT_AG_DEBUG: campaign_id=1859289224206433, base_data keys=['1859811090897921', '1859811090897953', '1859811090898945', '1859750732150978', '1859729738074146'], base_data count=24
+INFO:root:TT_AG_DEBUG: all_ag_ids count=24, names count=24
+INFO:root:TT_AG_DEBUG: campaign_id=1860295504334945, base_data keys=['1860367684932625', '1860367551487010', '1860367426128962', '1860295724116002', '1860309481899106'], base_data count=8
+INFO:root:TT_AG_DEBUG: all_ag_ids count=8, names count=8
+INFO:root:TT_AG_DEBUG: campaign_id=1860294417984546, base_data keys=['1860294556313618', '1860300836110610', '1860300836110642', '1860300836111762', '1860300836111794'], base_data count=5
+INFO:root:TT_AG_DEBUG: all_ag_ids count=5, names count=5

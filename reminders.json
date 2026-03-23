@@ -1,0 +1,16 @@
+{
+  "286990209": {
+    "report_times": [
+      "09:00",
+      "12:00",
+      "15:00",
+      "18:00",
+      "21:00"
+    ],
+    "reports_enabled": false,
+    "enabled": true,
+    "use_ai": false,
+    "triggers_enabled": true,
+    "alerts_enabled": true
+  }
+}

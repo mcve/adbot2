@@ -1,0 +1,61 @@
+nohup: ignoring input
+INFO:root:Bot starting...
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @tovarka_eco_ads_bot id=8216126824 - 'Товарка | Экономика + Реклама'
+INFO:aiogram.event:Update id=923382727 is handled. Duration 201 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382728 is handled. Duration 99 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382729 is handled. Duration 2824 ms by bot id=8216126824
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"1df832c7-9229-4d0a-8a0e-77d69ffbd69b","object":"chat.completion","created":1773485568,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"Ок, смотри. Нужно отталкиваться от твоего профиля — ты новичок, бюджет ограничен, и уже есть опыт с разными товарами. Ид
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923382730 is handled. Duration 26552 ms by bot id=8216126824
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"1454795c-a6c4-44d2-94fb-b3ac791dafd4","object":"chat.completion","created":1773485677,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"Беспроводной пылесос — это сильный бытовой оффер. Сейчас он в тренде, особенно модели с мощной тягой и автономностью до 
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923382731 is handled. Duration 20211 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382732 is handled. Duration 194 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382733 is handled. Duration 90 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382734 is handled. Duration 112 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382735 is handled. Duration 105 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382736 is handled. Duration 83 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382737 is handled. Duration 101 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382738 is handled. Duration 2954 ms by bot id=8216126824
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"ed43d21d-25c8-435e-bedd-ee0254d94045","object":"chat.completion","created":1773486167,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"Привет, Артем 👋\n\nОтлично, что знакомимся. Я твой AI-ассистент по товарке. Буду помогать с анализом связок, текстами и 
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923382739 is handled. Duration 4885 ms by bot id=8216126824
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"e6162199-dcfa-4f9b-b928-4f5b5a1803b9","object":"chat.completion","created":1773486177,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"Ты — Товарный Бро. Имя не указано в профиле, но по контексту ты владелец бизнеса, который тестирует товары с февраля 202
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923382740 is handled. Duration 3321 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382741 is handled. Duration 104 ms by bot id=8216126824
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"ce9ed6d7-03be-473c-9960-c04b1821c572","object":"chat.completion","created":1773487020,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"━━━ 🧠 ЭКСПЕРТНОЕ МНЕНИЕ ━━━\nТовар цепляет — есть связка с CPL почти в два раза ниже плана и хорошим потоком лидов. Осно
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923382742 is handled. Duration 24715 ms by bot id=8216126824
+INFO:aiogram.event:Update id=923382743 is handled. Duration 219 ms by bot id=8216126824
+INFO:root:DeepSeek: sending request, key=sk-d9f7e3e...
+INFO:root:DeepSeek: status=200
+INFO:root:DeepSeek raw response: {"id":"f79c5644-5ccc-4b5f-85ad-938f3833f733","object":"chat.completion","created":1773487981,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"━━━ 🧠 ЭКСПЕРТНОЕ МНЕНИЕ ━━━\nТовар цепляет — есть связка с CPL почти в 2 раза ниже плана и хорошим CTR. Это главный канд
+INFO:root:AI response from DeepSeek
+INFO:aiogram.event:Update id=923382744 is handled. Duration 25633 ms by bot id=8216126824
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8216126824)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+WARNING:aiogram.dispatcher:Sleep for 1.405252 seconds and try again... (tryings = 1, bot id = 8216126824)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+WARNING:aiogram.dispatcher:Sleep for 1.848344 seconds and try again... (tryings = 2, bot id = 8216126824)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+WARNING:aiogram.dispatcher:Sleep for 2.289029 seconds and try again... (tryings = 3, bot id = 8216126824)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+WARNING:aiogram.dispatcher:Sleep for 3.019602 seconds and try again... (tryings = 4, bot id = 8216126824)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+WARNING:aiogram.dispatcher:Sleep for 4.006081 seconds and try again... (tryings = 5, bot id = 8216126824)
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @tovarka_eco_ads_bot id=8216126824 - 'Товарка | Экономика + Реклама'
+INFO:aiogram.dispatcher:Polling stopped
